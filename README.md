@@ -6,7 +6,7 @@
 - Accordion
 - Main Body
 
-## Components written
+## Components created
 
 - Navbar
 - Button
